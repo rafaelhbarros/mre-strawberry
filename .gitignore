@@ -1,0 +1,12 @@
+.DS_Store
+*~
+*.pyc
+*.db
+*.sqlite
+*.sql.gz
+*.sql
+*.profile
+
+db.sqlite3
+static/
+__pycache__/*
